@@ -1,1 +1,3 @@
-# stan_nfl
+# README
+
+NFL analysis using `RStan`
